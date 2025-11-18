@@ -1,6 +1,6 @@
 public class LoanCalc {
 
-	static double epsilon = 0.01; // accuracy expected by tests
+	static double epsilon = 0.001; // accuracy expected by tests
 	static int iterationCounter;
 
 	public static void main(String[] args) {
